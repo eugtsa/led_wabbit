@@ -1,0 +1,2 @@
+vw -q XY --link logistic --quiet -t -i /home/tsa/MEGA/python/led_wabbit_package/examples/temp-vw-models-cache/None_f57f5f2f553ab7e590e60eb5bf4618c3.model -r /home/tsa/MEGA/python/led_wabbit_package/examples/None_f57f5f2f553ab7e590e60eb5bf4618c3.predictionkejkevd6
+WARNING: model file has set of {-q, --cubic, --interactions} settings stored, but they'll be OVERRIDEN by set of {-q, --cubic, --interactions} settings from command line.

@@ -1,0 +1,13 @@
+### ToDo ###
+
+- clean readme
+- save model vw file
+- load model vw file
+- work with sparse matrices
+- make faster
+
+### Done ###
+
+- make module from code
+- do predict_proba on oaa
+- add weights to oaa
